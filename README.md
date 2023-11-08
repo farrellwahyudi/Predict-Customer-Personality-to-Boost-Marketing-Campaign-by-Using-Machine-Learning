@@ -246,7 +246,7 @@ High potential customers purchase about the same number of times as high value c
 - Customer Retention: Focus on retaining this customer base by providing excellent customer service and building long-term loyalty.
 
 ## Potential Impact
-If we focus on the high potential customers and target the campaigns to them exclusively we will see a massive improvement on marketing Return of Investment (ROI). Where:
+If we focus on the high potential customers and target the campaigns to them exclusively we will see a massive improvement on Conversion Rate (~ 0.75 on average) and by extension marketing Return of Investment (ROI). Where:
 
 $$ROI = {Total Revenue - Total Marketing Cost \over Total Marketing Cost}$$
 
